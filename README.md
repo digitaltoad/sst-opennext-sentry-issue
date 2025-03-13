@@ -1,5 +1,5 @@
 # SST Open Next Sentry Issue
-A project to demonstrate the issue found [here](https://github.com/opennextjs/opennextjs-aws/issues/775).
+A project to demonstrate the issue described [here](https://github.com/opennextjs/opennextjs-aws/issues/775).
 
 ### Requirements
 - A sentry dsn
